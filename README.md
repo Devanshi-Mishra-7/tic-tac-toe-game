@@ -1,7 +1,7 @@
 # tic-tac-toe-game
 Classic Tic-Tac-Toe game built with HTML, CSS, and JavaScript. Play X vs O, track wins, and enjoy confetti celebrations! 🎮🎉
 
-# 🎲 Tic Tac Toe Game
+# 🌟 Tic Tac Toe Game
 
 A fun, interactive **Tic Tac Toe** game built with **HTML, CSS, and JavaScript**. Play with friends on the same device! ✨
 
